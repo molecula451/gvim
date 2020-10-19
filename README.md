@@ -10,3 +10,21 @@ Dockerized VIM working on top of Golem Network
 ## SET ENV Variable
 
 #### <code> export YAGNA_APPKEY=your-key </code>
+
+## Building Docker image
+
+![built](https://user-images.githubusercontent.com/41552663/96406331-361fcc00-11ad-11eb-9472-2fb22f7c31f5.gif)
+
+## Building Golem Image
+
+![builtgvmi](https://user-images.githubusercontent.com/41552663/96406427-7121ff80-11ad-11eb-96ca-413d47481f4c.gif)
+
+## Pushing it to Golem
+
+![push](https://user-images.githubusercontent.com/41552663/96406578-b5ad9b00-11ad-11eb-9460-c42bcefe87ad.gif)
+
+### Running the market and demanding task
+
+![market-and-task](https://user-images.githubusercontent.com/41552663/96406705-002f1780-11ae-11eb-8c30-126084d30030.gif)
+
+## Beta Software as it was intented to use for testing the new Golem Alpha 2 Network
