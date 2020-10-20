@@ -31,5 +31,8 @@ Dockerized VIM working on top of Golem Network
 
 ![market-and-task](https://user-images.githubusercontent.com/41552663/96406705-002f1780-11ae-11eb-8c30-126084d30030.gif)
 
+### Running Vim native
+#![running](https://user-images.githubusercontent.com/41552663/96601940-7d4ab180-12c0-11eb-924a-0652da4a6fa5.gif)
+
 ## Beta Software as it was intented to use for testing the new Golem Alpha 2 Network
 ## It is highly recommend to check log after task as done as it shows a lot of relevant information on the worker
